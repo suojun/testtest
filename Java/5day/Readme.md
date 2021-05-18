@@ -72,3 +72,33 @@ public class self2 {
 
 }
 
+3.
+package study;
+
+import java.util.Scanner;
+
+public class self3 {
+
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		
+		
+		System.out.println("피연산자 :");
+		String num1 = scanner.nextLine();
+		
+		System.out.println("연산자 :");
+		String num2 = scanner.nextLine();
+		
+		System.out.println("피연산자 :");
+		String num3 = scanner.nextLine();
+
+		int a = Integer.parseInt(num1);
+	    
+	    int c = Integer.parseInt(num3);
+	    
+	    System.out.println("결과: " + num1 + num2 + num3);
+
+	}
+
+}
+
