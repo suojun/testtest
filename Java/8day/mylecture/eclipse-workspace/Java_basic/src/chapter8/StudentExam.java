@@ -51,10 +51,10 @@ public class StudentExam {
 			
 			System.out.println();
 			cnt++;
-			
-		}
+	    
 	
 
 	}
 
-}
+	}
+	}
