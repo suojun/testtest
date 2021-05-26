@@ -40,17 +40,6 @@ width="30%">
    1. Item 3b
 
 ### 제목4
-<table style="width:100%">
-  <tr>
-    <th>지역</th>
-    <th>이름</th>
-    <th>나이</th>
-  </tr>
-  <tr>
-    <td>인천</td>
-    <td>황성준</td>
-    <td>24</td>
-  </tr>
-</table>
+
 
 #### 제목5
